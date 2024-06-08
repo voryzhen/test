@@ -1,4 +1,4 @@
-[![Watch the video]()](./test.mov)
+[![Watch the video]()](./test.mp4)
 
 1. Install deps
 `npm i`
